@@ -51,7 +51,7 @@ Installation is performed via `requirements.txt`.
 ## ⚡ Quick Start
 Get the bot running in under 30 seconds:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/yashgupta29032006/TradingBot.git>
 cd TradingBot/trading_bot
 pip install -r requirements.txt
 
