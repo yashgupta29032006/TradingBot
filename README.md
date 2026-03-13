@@ -67,7 +67,7 @@ python -m bot.cli --symbol BTCUSDT --side BUY --type MARKET --quantity 0.01
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone <https://github.com/yashgupta29032006/TradingBot.git>
 cd TradingBot/trading_bot
 ```
 
